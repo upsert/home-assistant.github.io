@@ -18,5 +18,5 @@ group :jekyll_plugins do
   gem 'jekyll-commonmark', '1.3.1'
 end
 
-gem 'sinatra', '2.0.7'
+gem 'sinatra', '2.2.0'
 gem 'nokogiri', '1.10.4'
